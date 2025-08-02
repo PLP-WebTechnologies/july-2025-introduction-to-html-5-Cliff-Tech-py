@@ -1,0 +1,62 @@
+🌐 Accessible & SEO-Friendly HTML5 Web Page
+This project showcases a simple, accessible, and SEO-optimized web page built using semantic HTML5. It demonstrates best practices in web structure, accessibility, and search engine optimization, ideal for both learning and real-world implementation.
+
+🧰 Features
+✅ HTML5 Semantic Structure: Uses modern tags like <header>, <nav>, <main>, <section>, <article>, and <footer> for clear content organization.
+
+♿ Accessibility-Friendly: Implements ARIA roles and accessible navigation to support users with disabilities and screen readers.
+
+🔍 SEO Best Practices: Meta tags for description, keywords, and author to enhance search engine discoverability.
+
+📱 Responsive Meta Tag: Ensures the page adapts well to different screen sizes.
+
+📁 File Structure
+graphql
+Copy
+Edit
+project-folder/
+│
+└── index.html        # The main HTML file
+└── README.md         # Project documentation (this file)
+🧑‍💻 Technologies Used
+HTML5
+
+Semantic HTML
+
+ARIA (Accessible Rich Internet Applications) roles
+
+Basic SEO techniques
+
+📄 Page Sections
+Header: Page introduction with heading and summary.
+
+Navigation: Links for in-page navigation (About, Services, Contact).
+
+Main Content:
+
+About: Describes the purpose and structure of the web page.
+
+Services: Lists two sample service areas—Web Accessibility and SEO Optimization.
+
+Contact: Contact information with an email link.
+
+Footer: Copyright.
+
+🧑 Author
+Wycliff Muriuki
+Email: wycliffmk0@gmail.com
+© 2025 Cliff-Tech. All rights reserved.
+
+📌 How to Use
+Clone or download this repository.
+
+Open index.html in any modern web browser.
+
+Explore how semantic tags and accessibility practices are used.
+
+💡 Learning Outcomes
+Learn how to structure an HTML document semantically.
+
+Understand the importance of accessibility in web development.
+
+Apply basic SEO principles for better search engine visibility.
